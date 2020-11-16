@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
-title: [Odd Baron]
-show_downloads: [True]
+title: Odd Baron
+description: Github user page.
+show_downloads: False
