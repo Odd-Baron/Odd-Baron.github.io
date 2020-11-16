@@ -2,7 +2,8 @@
 Data analysis student at the Udacity Nano Degree
 
 ## Completed Projects
--Bikeshare:  
+- Bikeshare:  
 Data Extraction and statistic analysis test project  
--WeRateDogs:  
+  
+- WeRateDogs:  
 Data wrangling and visualization test project  
